@@ -16,7 +16,7 @@
     {
         "titolo": "Back to Black",
         "artista": "Amy Winehouse",
-        "url_cover": "https://upload.wikimedia.org/wikipedia/en/6/67/Amy_Winehouse_-_Back_to_Black.png",
+        "url_cover": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6z8WdhDb4NrFDELsUkvBGNc4tL0fFnLpixwXm5CPRhTe3GPYsywdyOCRBR6q2",
         "anno": 2006,
         "genere": "Soul / Jazz"
     },
@@ -30,14 +30,14 @@
     {
         "titolo": "Random Access Memories",
         "artista": "Daft Punk",
-        "url_cover": "https://upload.wikimedia.org/wikipedia/en/a/a7/Random_Access_Memories.jpg",
+        "url_cover": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGaHnILLh0cgn35oI_O4XtFwGWYap29MijMqwiKjNNt-gOpGGQAMxuWana2Ba9",
         "anno": 2013,
         "genere": "Electronic"
     },
     {
         "titolo": "Kind of Blue",
         "artista": "Miles Davis",
-        "url_cover": "https://upload.wikimedia.org/wikipedia/en/9/9c/MilesDavisKindofBlue.jpg",
+        "url_cover": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1kap0QJ90wyEe73hPXEQLlcfkFs-sGmvuzDeXkM5H_FS4WLWpUFtlVwYZHVNv",
         "anno": 1959,
         "genere": "Jazz"
     }
