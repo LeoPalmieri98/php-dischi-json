@@ -45,7 +45,35 @@ $dischi_strings = json_decode($dischi_json, true);
 
         <?php } ?>
 
-    </div> </div>
+    </div> 
+</div>
+
+<div>
+<h3 class="ms-3">Aggiungi il tuo brano:</h3>
+<form action="server.php" method="POST" class="ms-5 mt-5">
+    <div class="mt-3">
+        <input type="text" id="titolo"  name="titolo" placeholder="Titolo" value="Default titolo">
+    </div>
+    <div class="mt-3">
+        <input type="text" id="artista"  name="artista" placeholder="Artista" value="Default artista">
+    </div>
+    <div class="mt-3">
+        <input type="text" id="url_cover"  name="url_cover" placeholder="URL Cover" value="Default url_cover">
+    </div>
+    <div class="mt-3">
+        <input type="text" id="anno"  name="anno" placeholder="Anno di uscita" value="Default anno">
+    </div>
+    <div class="mt-3">
+        <input type="text" id="genere"  name="genere" placeholder="Genere Musicale" value="Default genere">
+    </div>
+    
+    
+    <h5 class="mt-5">Invia la tua Cover!</h5>
+    <button>Invia</button>
+</form>
+
+</div>
+
 
 </body>
 </html>
